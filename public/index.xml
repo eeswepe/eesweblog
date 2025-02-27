@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Awesome Blog</title>
-    <link>https://example.com/</link>
+    <link>https://eesweblog.vercel.app/</link>
     <description>Recent content on My Awesome Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2025 03:38:43 +0700</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Feb 2025 03:38:43 +0700</lastBuildDate><atom:link href="https://eesweblog.vercel.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://example.com/posts/hello-world/</link>
+      <link>https://eesweblog.vercel.app/posts/hello-world/</link>
       <pubDate>Fri, 28 Feb 2025 03:38:43 +0700</pubDate>
       
-      <guid>https://example.com/posts/hello-world/</guid>
+      <guid>https://eesweblog.vercel.app/posts/hello-world/</guid>
       <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world&lt;/h1&gt;
 &lt;h2 id=&#34;welcome-to-eesweblog&#34;&gt;Welcome to EESWEBLOG&lt;/h2&gt;
 &lt;p&gt;by eeswepe&lt;/p&gt;</description>
